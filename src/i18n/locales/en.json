@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Clock Reading Practice",
+    "subtitle": "Learn to read the clock with horses"
+  },
+  "clock": {
+    "hour": "hour",
+    "hours": "hours",
+    "minute": "minute",
+    "minutes": "minutes",
+    "past": "past",
+    "to": "to",
+    "quarter": "quarter",
+    "half": "half",
+    "language": "en"
+  },
+  "game": {
+    "start": "Let's Go!",
+    "next": "Next Clock",
+    "check": "Check Answer",
+    "correct": "Correct!",
+    "incorrect": "Incorrect. Try again!",
+    "score": "Score: {{score}}",
+    "highScore": "High Score: {{score}}"
+  },
+  "settings": {
+    "title": "Ready to Learn with Horses? 🐴",
+    "language": "Language",
+    "difficulty": "Difficulty",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "levels": {
+    "level1": {
+      "name": "Level 1",
+      "description": "Hours only"
+    },
+    "level2": {
+      "name": "Level 2",
+      "description": "Half hours"
+    },
+    "level3": {
+      "name": "Level 3",
+      "description": "Quarters"
+    },
+    "level4": {
+      "name": "Level 4",
+      "description": "Minutes"
+    }
+  },
+  "levelUp": {
+    "title": "Amazing! Level Up! 🌟",
+    "message": "Get ready for level {{level}}!",
+    "continue": "Continue"
+  },
+  "progress": {
+    "text": "Question {{current}} of {{total}} - Level {{level}}"
+  }
+} 

@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Apprendre à Lire l'Heure",
+    "subtitle": "Apprends à lire l'heure avec les chevaux"
+  },
+  "clock": {
+    "hour": "heure",
+    "hours": "heures",
+    "minute": "minute",
+    "minutes": "minutes",
+    "past": "et",
+    "to": "moins",
+    "quarter": "quart",
+    "half": "demie",
+    "language": "fr"
+  },
+  "game": {
+    "start": "Commencer!",
+    "next": "Prochaine Horloge",
+    "check": "Vérifier la Réponse",
+    "correct": "Correct!",
+    "incorrect": "Incorrect. Essaie encore!",
+    "score": "Score: {{score}}",
+    "highScore": "Meilleur Score: {{score}}",
+    "questionsLeft": "Questions restantes : {{count}}"
+  },
+  "settings": {
+    "title": "Prêt à Apprendre avec les Chevaux? 🐴",
+    "language": "Langue",
+    "difficulty": "Difficulté",
+    "easy": "Facile",
+    "medium": "Moyen",
+    "hard": "Difficile"
+  },
+  "levels": {
+    "level1": {
+      "name": "Niveau 1",
+      "description": "Heures seulement"
+    },
+    "level2": {
+      "name": "Niveau 2",
+      "description": "Demi-heures"
+    },
+    "level3": {
+      "name": "Niveau 3",
+      "description": "Quarts d'heure"
+    },
+    "level4": {
+      "name": "Niveau 4",
+      "description": "Minutes"
+    }
+  },
+  "levelUp": {
+    "title": "Fantastique! Niveau Supérieur! 🌟",
+    "message": "Prépare-toi pour le niveau {{level}}!",
+    "continue": "Continuer"
+  },
+  "progress": {
+    "text": "Question {{current}} sur {{total}} - Niveau {{level}}"
+  }
+} 

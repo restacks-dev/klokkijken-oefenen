@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Klokkijken Oefenen",
+    "subtitle": "Leer klokkijken met paarden"
+  },
+  "clock": {
+    "hour": "uur",
+    "hours": "uur",
+    "minute": "minuut",
+    "minutes": "minuten",
+    "past": "over",
+    "to": "voor",
+    "quarter": "kwart",
+    "half": "half",
+    "language": "nl"
+  },
+  "game": {
+    "start": "Begin!",
+    "next": "Volgende Klok",
+    "check": "Controleer Antwoord",
+    "correct": "Goed zo!",
+    "incorrect": "Jammer, probeer nog eens!",
+    "score": "Score: {{score}}",
+    "highScore": "Hoogste Score: {{score}}"
+  },
+  "settings": {
+    "title": "Klaar om te Leren met Paarden? 🐴",
+    "language": "Taal",
+    "difficulty": "Moeilijkheid",
+    "easy": "Makkelijk",
+    "medium": "Gemiddeld",
+    "hard": "Moeilijk"
+  },
+  "levels": {
+    "level1": {
+      "name": "Level 1",
+      "description": "Alleen hele uren"
+    },
+    "level2": {
+      "name": "Level 2",
+      "description": "Halve uren"
+    },
+    "level3": {
+      "name": "Level 3",
+      "description": "Kwartieren"
+    },
+    "level4": {
+      "name": "Level 4",
+      "description": "Minuten"
+    }
+  },
+  "levelUp": {
+    "title": "Geweldig! Level Up! 🌟",
+    "message": "Maak je klaar voor level {{level}}!",
+    "continue": "Doorgaan"
+  },
+  "progress": {
+    "text": "Vraag {{current}} van {{total}} - Level {{level}}"
+  }
+} 

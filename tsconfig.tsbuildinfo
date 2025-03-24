@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/electron.d.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/analogclock.tsx","./src/components/clockgame.tsx","./src/components/devlanguageswitcher.tsx","./src/electron/main.ts","./src/i18n/index.ts"],"version":"5.7.3"}
