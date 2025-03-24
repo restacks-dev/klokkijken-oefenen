@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Práctica de Lectura del Reloj",
+    "subtitle": "Aprende a leer el reloj con caballos"
+  },
+  "clock": {
+    "hour": "hora",
+    "hours": "horas",
+    "minute": "minuto",
+    "minutes": "minutos",
+    "past": "y",
+    "to": "menos",
+    "quarter": "cuarto",
+    "half": "media",
+    "language": "es"
+  },
+  "game": {
+    "start": "¡Empezar!",
+    "next": "Siguiente Reloj",
+    "check": "Comprobar Respuesta",
+    "correct": "¡Correcto!",
+    "incorrect": "Incorrecto. ¡Inténtalo de nuevo!",
+    "score": "Puntuación: {{score}}",
+    "highScore": "Puntuación Máxima: {{score}}",
+    "questionsLeft": "Preguntas restantes: {{count}}"
+  },
+  "settings": {
+    "title": "¿Listo para Aprender con Caballos? 🐴",
+    "language": "Idioma",
+    "difficulty": "Dificultad",
+    "easy": "Fácil",
+    "medium": "Medio",
+    "hard": "Difícil"
+  },
+  "levels": {
+    "level1": {
+      "name": "Nivel 1",
+      "description": "Solo horas"
+    },
+    "level2": {
+      "name": "Nivel 2",
+      "description": "Medias horas"
+    },
+    "level3": {
+      "name": "Nivel 3",
+      "description": "Cuartos de hora"
+    },
+    "level4": {
+      "name": "Nivel 4",
+      "description": "Minutos"
+    }
+  },
+  "levelUp": {
+    "title": "¡Increíble! ¡Nivel Superado! 🌟",
+    "message": "¡Prepárate para el nivel {{level}}!",
+    "continue": "Continuar"
+  },
+  "progress": {
+    "text": "Pregunta {{current}} de {{total}} - Nivel {{level}}"
+  }
+} 

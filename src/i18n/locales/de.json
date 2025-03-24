@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Uhrzeit Lernen",
+    "subtitle": "Lerne die Uhr mit Pferden zu lesen"
+  },
+  "clock": {
+    "hour": "Uhr",
+    "hours": "Uhr",
+    "minute": "Minute",
+    "minutes": "Minuten",
+    "past": "nach",
+    "to": "vor",
+    "quarter": "viertel",
+    "half": "halb",
+    "language": "de"
+  },
+  "game": {
+    "start": "Los geht's!",
+    "next": "Nächste Uhr",
+    "check": "Antwort prüfen",
+    "correct": "Richtig!",
+    "incorrect": "Leider falsch. Versuche es noch einmal!",
+    "score": "Punkte: {{score}}",
+    "highScore": "Höchstpunktzahl: {{score}}",
+    "questionsLeft": "Verbleibende Fragen: {{count}}"
+  },
+  "settings": {
+    "title": "Bereit mit Pferden zu lernen? 🐴",
+    "language": "Sprache",
+    "difficulty": "Schwierigkeit",
+    "easy": "Leicht",
+    "medium": "Mittel",
+    "hard": "Schwer"
+  },
+  "levels": {
+    "level1": {
+      "name": "Level 1",
+      "description": "Nur volle Stunden"
+    },
+    "level2": {
+      "name": "Level 2",
+      "description": "Halbe Stunden"
+    },
+    "level3": {
+      "name": "Level 3",
+      "description": "Viertelstunden"
+    },
+    "level4": {
+      "name": "Level 4",
+      "description": "Minuten"
+    }
+  },
+  "levelUp": {
+    "title": "Fantastisch! Level Up! 🌟",
+    "message": "Mach dich bereit für Level {{level}}!",
+    "continue": "Weiter"
+  },
+  "progress": {
+    "text": "Frage {{current}} von {{total}} - Level {{level}}"
+  }
+} 
