@@ -10,7 +10,7 @@ Een leuke en interactieve applicatie om kinderen te helpen leren klokkijken met 
 | macOS | [Download voor macOS (.dmg)](https://github.com/restacks-dev/clock-reading-practice/releases/latest/download/KlokkijkenMetPaarden.dmg) |
 | Linux | [Download voor Linux (.AppImage)](https://github.com/restacks-dev/clock-reading-practice/releases/latest/download/KlokkijkenMetPaarden.AppImage) |
 
-![Klokkijken App](https://via.placeholder.com/800x400?text=Klokkijken+Oefenen)
+![Klokkijken App](https://github.com/user-attachments/assets/0416830a-1daf-4fe2-90da-69d1ee22b9cb)
 
 ## Beschrijving
 
